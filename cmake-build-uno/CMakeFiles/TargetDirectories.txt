@@ -1,0 +1,5 @@
+/home/pavel/Documents/PlatformIO/Projects/co2LaserControl/cmake-build-uno/CMakeFiles/rebuild_cache.dir
+/home/pavel/Documents/PlatformIO/Projects/co2LaserControl/cmake-build-uno/CMakeFiles/Production.dir
+/home/pavel/Documents/PlatformIO/Projects/co2LaserControl/cmake-build-uno/CMakeFiles/edit_cache.dir
+/home/pavel/Documents/PlatformIO/Projects/co2LaserControl/cmake-build-uno/CMakeFiles/Debug.dir
+/home/pavel/Documents/PlatformIO/Projects/co2LaserControl/cmake-build-uno/CMakeFiles/Z_DUMMY_TARGET.dir
